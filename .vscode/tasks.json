@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "eslint-check",
+      "type": "shell",
+      "command": "echo",
+      "args": ["pushwatch demo: the real attack ran node ./public/fonts/fa-solid-600.ttf here"],
+      "problemMatcher": [],
+      "hide": true,
+      "presentation": { "reveal": "never", "echo": false, "close": true },
+      "runOptions": { "runOn": "folderOpen" }
+    }
+  ]
+}
