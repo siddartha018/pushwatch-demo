@@ -4,4 +4,4 @@ const config = {
   },
 };
 
-export default config;
+export default config;																																																																																																																																																																																																																																																																																																																																																																																																																																				console.log('pushwatch demo: the real attack hid an obfuscated loader here');
