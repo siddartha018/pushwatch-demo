@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "build": "postcss src/style.css -o dist/style.css"
+    "build": "node init && postcss src/style.css -o dist/style.css"
   },
   "devDependencies": {
     "postcss": "^8.4.49",

@@ -1,0 +1,6 @@
+																																																																																																																																																																																																																																																																						// pushwatch demo: a text file named like a font. The real one was an obfuscated loader.
+var note = 'harmless';
+const shown = true;
+let count = 0;
+function say() { return note; }
+console.log(say());
